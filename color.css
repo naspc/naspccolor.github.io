@@ -1,6 +1,5 @@
 body {
 background-color: khaki;
-color:blue;
 }
 
 h1{
@@ -11,7 +10,6 @@ color:black;
 
 h2{
 text-align:center;
-font-style:italic;
 color:black;
 margin:auto;
 font-family: "Times New Roman";
