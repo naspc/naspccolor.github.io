@@ -11,6 +11,8 @@ li {
     background-color: aliceblue;
     text-align: center;
     line-height: 60px;
+    width: fit-content; /* Set the width to fit the content */
+    margin: 0 auto; /* Center the container horizontally */
 }
 .btn{
     border: none;
