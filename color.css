@@ -5,7 +5,8 @@ li {
 .nav-center{
     display: inline-flex;
     list-style-type: none;
-    width:100vw;
+    margin: auto;
+    justify-content: center;
 }
 
 
